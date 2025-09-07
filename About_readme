@@ -1,0 +1,26 @@
+# 📊 E-commerce Sales Analysis  
+
+💡 This project is a data-driven exploration of an E-commerce business using Python + SQL.  
+It simulates how a Data Analyst would uncover insights from sales data, track performance, and generate reports for decision-making.  
+
+---
+
+## ✨ Project Highlights
+- 🗄️ Database Management (SQL + SQLite) → Created tables, inserted data, and ran analytical queries  
+- 🐍 Python Analysis (Pandas) → Cleaned & explored sales data  
+- 📈 Visualizations (Matplotlib & Seaborn) → Revenue trends, regional sales, category performance  
+- 📊 Customer Insights → Segmentation, high-value customers, inactive customers (churn risk)  
+- 📑 Reporting → Exported results into **Excel & CSV** for stakeholders  
+- 🌐 Dashboard (Streamlit) → Built an optional interactive dashboard for better presentation  
+
+---
+
+## 🎯 Key Outcomes
+- 🔎 Identified top-performing regions and customer segments
+- 💸 Found that discounts reduce profitability in certain product categories  
+- 🏆 Highlighted high-value customers contributing the most revenue  
+- ⚠️ Detected churn risk by analyzing inactive customers  
+
+---
+
+👉 This project showcases real-world Data Analyst skills : SQL querying, Python analysis, data visualization, and reporting — making it a strong addition to any Data Analyst portfolio.
